@@ -1,0 +1,29 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Open Sans';
+    url('../fonts/opensans-regular-webfont.woff2') format('woff2'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    url('../fonts/opensans-semibold-webfont.woff2') format('woff2'),
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    url('../fonts/opensans-bold-webfont.woff2') format('woff2'),
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gordita';
+    src: url('../fonts/Gordita-Regular.woff2') format('woff2'),
+        url('../fonts/Gordita-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    
+}
