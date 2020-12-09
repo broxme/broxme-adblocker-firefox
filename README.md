@@ -38,8 +38,10 @@ You can drop us a line [here](https://www.broxme.com/contact)
 ## License
 
 *Free. BroxMe Adblocker is an open source project licensed under GPL v3. The first version was forked from AdGuard v. 3.2.0 inheriting the GPL v3 license for open source.*
+*Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>
 
 **Changes made to the source code**
 * Modified the source code to block ads on google.com, yahoo.com and others
 * Design changes for improved user experience
 * Implementation of the WebExtension standard to support Firefox 57+
+
