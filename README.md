@@ -1,6 +1,6 @@
 <h1 align="center">
 <sub>
-<img src="https://github.com/broxme/broxme-adblocker-firefox/blob/master/icons/green-38.png" height="38" width="38">
+<img src="icons/green-38.png" height="38" width="38">
 </sub>
 BroxMe Adblocker for Firefox
 </h1>
